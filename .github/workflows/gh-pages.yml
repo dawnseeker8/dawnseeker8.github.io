@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: "16"
 
       - name: Cache dependencies
         uses: actions/cache@v2
@@ -35,11 +35,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
           extended: true
 
       - name: Build
-        run: hugo --minify --gc --enableGitInfo -b https://razonyang.github.io/hugo-theme-bootstrap-skeleton/
+        run: hugo --minify --gc --enableGitInfo -b https://dawnseeker8.github.io/
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
