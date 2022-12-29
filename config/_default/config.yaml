@@ -27,7 +27,7 @@ taxonomies:
   authors: authors
 
 build:
-  writeStats: false
+  writeStats: true
 
 permalinks:
   news: /news/:year/:month/:title/
