@@ -5,7 +5,7 @@ mainSections:
 
 # titleSeparator: | # Title separator. Default to -.
 
-description: An extreme fast, responsive and feature-rich blog theme for Hugo
+description: Personal technical blog for Xiaoming Wang
 keywords: xiaoming, Leo wang, technical blog
 # images:
 #   - site-feature-image.jpg
@@ -13,7 +13,7 @@ keywords: xiaoming, Leo wang, technical blog
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-# logo: images/logo.png # Logo image. Default to images/logo.webp.
+logo: https://cdn.jsdelivr.net/gh/dawnseeker8/img-hosting/images/photo.jpg # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
 brand: dawnseeker8
 

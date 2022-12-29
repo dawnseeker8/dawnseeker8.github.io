@@ -1,5 +1,5 @@
 name: Xiaoming(Leo) Wang
-# avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+avatar: https://cdn.jsdelivr.net/gh/dawnseeker8/img-hosting/images/photo.jpg # Avatar image. Default to "images/profile.webp".
 bio: "Gopher, Javaer, Rust, ReactJS, Full Stack Engineer."
 # company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
 location: UK && China # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
