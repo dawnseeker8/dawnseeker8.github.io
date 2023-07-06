@@ -1,10 +1,23 @@
 ---
-date: 2022-09-06T22:42:23+08:00
+date: 2022-03-06T22:42:23+08:00
 title: Introduction
-navWeight: 1000 # Upper weight gets higher precedence, optional.
-linkTitleIcon: <i class="fas fa-fw fa-book"></i> # The icon of the link title, optional.
+nav_weight: 1
 series:
   - Guide
+nav_icon:
+  vendor: bs
+  name: book
+  color: indigo
+authors:
+  - razonyang
 ---
 
 A fast, responsive and feature-rich Hugo theme for blog and documentations site.
+
+<!--more-->
+
+## Greeting
+
+```sh
+echo "Hi there"
+```

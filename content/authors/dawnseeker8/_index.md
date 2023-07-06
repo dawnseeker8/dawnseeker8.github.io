@@ -1,6 +1,8 @@
 ---
 title: Xiaoming(Leo) Wang
 description: Go, Java, Rust，NodeJS，React， Full Stack Engineer.
+images:
+  - https://cdn.jsdelivr.net/gh/dawnseeker8/img-hosting/images/photo.jpg
 social:
   github: dawnseeker8
   # twitter: razonyang

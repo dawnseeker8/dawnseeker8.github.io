@@ -3,7 +3,10 @@ title: Archives
 menu:
   main:
     parent: blog
-    weight: 1
     params:
-      icon: <i class="fas fa-fw fa-file-archive text-primary"></i>
+      icon:
+        vendor: bs
+        name: archive
+        className: text-primary-emphasis
+      description: Posts archive.
 ---
